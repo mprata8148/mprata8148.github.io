@@ -66,6 +66,14 @@ h6 {
   opacity: 1;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  /* Optional: Set a height for the centered div */
+}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
